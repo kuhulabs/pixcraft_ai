@@ -1,7 +1,7 @@
 [
   {
     "name": "Naruto Style",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_naruto.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/classic_naruto.webp",
     "prompt": "anime portrait of a {{genderPerson}} in Naruto art style, {{male:spiky hair, headband, determined fierce expression, ninja outfit|female:kunoichi outfit, expressive eyes, strong determined look, hair tied}}, Hidden Leaf Village background with forest and sky, dynamic action lines, vibrant cel-shaded colors, Masashi Kishimoto art style, high quality anime illustration",
     "negativePrompt": "NEG_ANIME",
     "isPremium": false,
@@ -9,7 +9,7 @@
   },
   {
     "name": "One Piece Style",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_onepiece.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/classic_one.webp",
     "prompt": "anime portrait of a {{genderPerson}} in One Piece art style, {{male:bold adventurous look, straw hat or pirate outfit, wide grin|female:pirate or marine outfit, confident bold expression, stylized hair}}, grand ocean or pirate ship background, vibrant saturated colors, Eiichiro Oda inspired thick outlines, exaggerated expressive features, high quality anime illustration",
     "negativePrompt": "NEG_ANIME",
     "isPremium": false,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Dragon Ball Style",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_dragonball.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/classic_dragon.webp",
     "prompt": "anime portrait of a {{genderPerson}} in Dragon Ball Z art style, {{male:spiky golden or black hair, muscular build, intense power aura, fighting gi|female:strong athletic build, determined fierce expression, flowing hair with energy aura}}, dramatic energy ki blast background, bold cel-shaded colors, Akira Toriyama art style, dynamic power pose, high quality anime illustration",
     "negativePrompt": "NEG_ANIME",
     "isPremium": false,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Studio Anime",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_ghibli.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/classic_studio.webp",
     "prompt": "beautiful Studio Ghibli inspired anime portrait of a {{genderPerson}}, {{male:warm gentle expression, casual adventure outfit, natural wholesome look|female:soft beautiful features, flowing hair, gentle warm smile, natural attire}}, lush magical countryside or fantasy nature background, soft watercolor-like pastel colors, gentle warm lighting, hand-drawn animation aesthetic, Hayao Miyazaki art style",
     "negativePrompt": "NEG_ANIME_SOFT",
     "isPremium": false,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Shonen Hero",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_shonen.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/classic_sunio.webp",
     "prompt": "classic shonen anime hero portrait of a {{genderPerson}}, {{male:iconic spiky hair, determined burning eyes, hero costume or school uniform|female:strong heroine look, expressive eyes, hero or school outfit}}, dramatic sky or city background with light rays, vibrant bold colors, classic shonen manga art style, heroic confident pose, power aura effect, high quality anime illustration",
     "negativePrompt": "NEG_ANIME",
     "isPremium": false,

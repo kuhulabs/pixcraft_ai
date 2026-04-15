@@ -57,7 +57,7 @@
   },
   {
     "name": "Golden Hour",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/golden_hour.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_golden_hour.webp",
     "prompt": "golden hour portrait of a {{genderPerson}}, warm sunset backlight, soft orange and amber rim lighting, dreamy shallow bokeh outdoor background, {{male:relaxed masculine expression|female:soft feminine glow, hair catching the light}}, natural skin, 85mm lens, photorealistic, high detail, cinematic warmth",
     "negativePrompt": "NEG_GOLDEN",
     "isPremium": false,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Cafe Vibe",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/cafe.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_street.webp",
     "prompt": "candid lifestyle portrait of a {{genderPerson}} in a cozy cafe, {{male:casual shirt, relaxed confident smile|female:casual chic outfit, natural warm smile}}, warm bokeh coffee shop background, natural window light, authentic relaxed mood, shallow depth of field, photorealistic",
     "negativePrompt": "NEG_HEADSHOT",
     "isPremium": false,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Street Style",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/street.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_cafe.webp",
     "prompt": "urban street style portrait of a {{genderPerson}}, {{male:trendy streetwear, cool casual pose|female:fashionable street outfit, confident urban look}}, city street background with bokeh lights, natural ambient light, editorial street photography feel, sharp focus, photorealistic",
     "negativePrompt": "NEG_HEADSHOT",
     "isPremium": false,

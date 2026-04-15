@@ -105,7 +105,7 @@
   },
   {
     "name": "B&W",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_cozyhome.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_b&w.webp",
     "prompt": "professional black and white studio headshot of a {{genderPerson}}, clean white background, sharp focus on eyes and facial features, soft cinematic side lighting, strong jawline definition, {{male:masculine facial structure|female:feminine facial structure, soft features}}, 8k resolution, highly detailed skin texture, minimalist aesthetic, photorealistic",
     "negativePrompt": "NEG_BW",
     "isPremium": false,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Cinematic",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_travel.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_cinematic.webp",
     "prompt": "cinematic headshot portrait of a {{genderPerson}}, dramatic Rembrandt lighting, soft deep shadows, high contrast, ultra detailed face, shallow depth of field, {{male:strong jawline, masculine features|female:delicate features, feminine elegance}}, anamorphic film look, professional photography, photorealistic",
     "negativePrompt": "NEG_HEADSHOT",
     "isPremium": false,

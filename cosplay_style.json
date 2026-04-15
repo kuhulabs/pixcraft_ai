@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Royal Bollywood",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "royal bollywood {{genderBolly}} portrait of a {{genderPerson}} wearing rich {{genderEthnic}}, {{genderJewel}}, majestic palace background, highly detailed royalty, 8k",
+    "negativePrompt": "NEG_BOLLYWOOD",
+    "isPremium": false
+  },
+  {
+    "name": "Medieval Knight",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "fantasy character portrait of a {{genderPerson}} wearing ornate shiny medieval steel armor, holding a sword, dark foggy forest, epic cinematic lighting, 8k",
+    "negativePrompt": "NEG_MAGAZINE",
+    "isPremium": false
+  },
+  {
+    "name": "Sci-Fi Astronaut",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "ultra realistic portrait of a {{genderPerson}} as an astronaut, futuristic spacesuit with glowing led lights, observing the galaxy through a spaceship window, 8k",
+    "negativePrompt": "NEG_MAGAZINE",
+    "isPremium": true
+  },
+  {
+    "name": "Vampire Lord",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "gothic vampire portrait of a {{genderPerson}}, elegant dark vintage clothing, pale skin, red eyes, moonlight glowing on face, mysterious dark castle background",
+    "negativePrompt": "NEG_MAGAZINE",
+    "isPremium": true
+  }
+]

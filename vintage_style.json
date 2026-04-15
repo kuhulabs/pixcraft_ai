@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Classic B&W",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "classic black and white 1950s portrait photography of a {{genderPerson}}, high contrast, film grain, dramatic studio lighting, old hollywood glamour",
+    "negativePrompt": "NEG_BW",
+    "isPremium": false
+  },
+  {
+    "name": "90s Polaroid",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "vintage 1990s polaroid photo of a {{genderPerson}}, soft faded colors, heavy film grain, retro casual outfit, nostalgic and authentic feel",
+    "negativePrompt": "NEG_VINTAGE",
+    "isPremium": false
+  },
+  {
+    "name": "Sepia Royalty",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "old 1800s sepia toned photograph of a {{genderPerson}} wearing royal aristocratic clothing, visible scratches and old paper texture, vintage historical feel",
+    "negativePrompt": "NEG_VINTAGE",
+    "isPremium": true
+  },
+  {
+    "name": "80s Synthwave",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "vintage 1980s retro wave photo of a {{genderPerson}}, bright magenta and cyan lighting, retro jacket, nostalgic 80s arcade background, vhs artifact effects",
+    "negativePrompt": "NEG_VINTAGE",
+    "isPremium": true
+  }
+]

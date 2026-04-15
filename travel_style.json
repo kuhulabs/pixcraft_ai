@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Eiffel Romance",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "candid wide angle photo of a {{genderPerson}} standing in front of the Eiffel tower in Paris, golden hour lighting, cinematic travel photography, romantic vibe",
+    "negativePrompt": "NEG_NATURAL",
+    "isPremium": false
+  },
+  {
+    "name": "Maldives Beach",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "beautiful {{genderPerson}} relaxing on a white sand beach in the Maldives, crystal clear turquoise water, bright sunny day, tropical vacation",
+    "negativePrompt": "NEG_NATURAL",
+    "isPremium": false
+  },
+  {
+    "name": "Tokyo Neon",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "travel photo of a {{genderPerson}} walking in the neon lit streets of Shinjuku Tokyo at night, cinematic street photography, rain puddles reflections",
+    "negativePrompt": "NEG_NATURAL",
+    "isPremium": true
+  },
+  {
+    "name": "Swiss Alps",
+    "previewUrl": "https://m.media-amazon.com/images/I/718DXZmXJQL.jpg",
+    "prompt": "a {{genderPerson}} standing on a snowy mountain peak in the Swiss Alps, wearing a winter jacket, stunning mountain landscape background, crisp cold morning light",
+    "negativePrompt": "NEG_NATURAL",
+    "isPremium": true
+  }
+]

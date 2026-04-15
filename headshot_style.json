@@ -4,111 +4,127 @@
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/linkdin.webp",
         "prompt": "professional corporate headshot of a {{genderPerson}}, wearing a {{genderAttire}}, studio lighting, clean neutral background, sharp focus, confident expression, natural skin tones, high detail, 85mm lens photography, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": false
+        "isPremium": false,
+        "category": "Professional"
     },
     {
         "name": "Startup",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/startup.webp",
         "prompt": "startup founder headshot of a {{genderPerson}}, smart casual attire, {{male:open collar shirt, confident relaxed expression|female:business casual blouse, approachable smile}}, warm tones, soft blurred modern office background, natural window lighting, shallow depth of field, authentic candid feel, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": false
+        "isPremium": false,
+        "category": "Professional"
     },
     {
         "name": "Doctor",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/doctor.webp",
         "prompt": "professional medical headshot of a {{genderPerson}} wearing a white doctor coat, {{male:stethoscope, clean shave, authoritative calm expression|female:stethoscope, hair tied back, compassionate professional expression}}, clean clinical white background, soft studio lighting, sharp focus, trustworthy look, high detail, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Professional"
     },
     {
         "name": "Lawyer",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/lawyer.webp",
         "prompt": "formal lawyer headshot of a {{genderPerson}}, {{male:dark formal suit, tie, serious authoritative expression|female:formal blazer, serious composed expression}}, classic law office background with bookshelves, warm dim lighting, professional serious tone, sharp focus, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Professional"
     },
     {
         "name": "Teacher",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/teacher.webp",
         "prompt": "academic teacher headshot of a {{genderPerson}}, {{male:smart casual shirt, warm friendly expression, glasses optional|female:smart casual top, warm welcoming smile, approachable look}}, warm cozy classroom or bookshelf background, soft natural lighting, intellectual approachable vibe, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Professional"
     },
     {
         "name": "B&W",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/b%26w.webp",
         "prompt": "professional black and white studio headshot of a {{genderPerson}}, clean white background, sharp focus on eyes and facial features, soft cinematic side lighting, strong jawline definition, {{male:masculine facial structure|female:feminine facial structure, soft features}}, 8k resolution, highly detailed skin texture, minimalist aesthetic, photorealistic",
         "negativePrompt": "NEG_BW",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Cinematic"
     },
     {
         "name": "Golden Hour",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/golden_hour.webp",
         "prompt": "golden hour portrait of a {{genderPerson}}, warm sunset backlight, soft orange and amber rim lighting, dreamy shallow bokeh outdoor background, {{male:relaxed masculine expression|female:soft feminine glow, hair catching the light}}, natural skin, 85mm lens, photorealistic, high detail, cinematic warmth",
         "negativePrompt": "NEG_GOLDEN",
-        "isPremium": true
-    },
-    {
-        "name": "Bollywood",
-        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/indian.webp",
-        "prompt": "Bollywood style glamorous portrait of a {{genderPerson}}, {{male:sharp hero look, styled hair, expressive intense eyes, clean jawline|female:heavy glamorous makeup, kohl eyes, glossy lips, voluminous hair}}, vibrant colorful studio lighting, filmy cinematic color grading, rich jewel-tone background, high fashion editorial, photorealistic",
-        "negativePrompt": "NEG_BOLLYWOOD",
-        "isPremium": true
-    },
-    {
-        "name": "Magazine",
-        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/magazine.webp",
-        "prompt": "Vogue magazine cover style portrait of a {{genderPerson}}, {{male:sharp masculine editorial look, designer suit|female:high fashion editorial, designer couture, flawless skin}}, dramatic studio lighting, seamless gradient background, ultra sharp focus, premium skin retouching, luxury aesthetic, 4k, photorealistic",
-        "negativePrompt": "NEG_MAGAZINE",
-        "isPremium": true
-    },
-    {
-        "name": "Royal Indian",
-        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/royal_indian.webp",
-        "prompt": "royal Indian portrait of a {{genderPerson}} wearing traditional {{genderEthnic}}, {{genderJewel}}, ornate palace background with golden arches, warm golden lighting, regal confident pose, detailed fabric embroidery texture, rich colour palette, photorealistic",
-        "negativePrompt": "NEG_ROYAL",
-        "isPremium": true
-    },
-    {
-        "name": "Vintage Film",
-        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/vintage.webp",
-        "prompt": "vintage 1970s film photograph portrait of a {{genderPerson}}, {{male:retro hairstyle, open collar shirt|female:vintage hairstyle, retro fashion blouse}}, warm sepia and faded orange tones, subtle film grain, soft vignette, analog photography look, gentle lens flare, photorealistic",
-        "negativePrompt": "NEG_VINTAGE",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Cinematic"
     },
     {
         "name": "Cinematic",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/cinematic.webp",
         "prompt": "cinematic headshot portrait of a {{genderPerson}}, dramatic Rembrandt lighting, soft deep shadows, high contrast, ultra detailed face, shallow depth of field, {{male:strong jawline, masculine features|female:delicate features, feminine elegance}}, anamorphic film look, professional photography, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Cinematic"
+    },
+    {
+        "name": "Magazine",
+        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/magazine.webp",
+        "prompt": "Vogue magazine cover style portrait of a {{genderPerson}}, {{male:sharp masculine editorial look, designer suit|female:high fashion editorial, designer couture, flawless skin}}, dramatic studio lighting, seamless gradient background, ultra sharp focus, premium skin retouching, luxury aesthetic, 4k, photorealistic",
+        "negativePrompt": "NEG_MAGAZINE",
+        "isPremium": true,
+        "category": "Cinematic"
     },
     {
         "name": "Creative",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/creative.webp",
         "prompt": "creative headshot portrait of a {{genderPerson}} with colorful neon lighting, vibrant gradient background, modern artistic style, sharp focus, {{male:bold masculine expression|female:expressive feminine look}}, high detail face, neon rim light, photorealistic",
         "negativePrompt": "NEG_HEADSHOT",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Cinematic"
+    },
+    {
+        "name": "Bollywood",
+        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/indian.webp",
+        "prompt": "Bollywood style glamorous portrait of a {{genderPerson}}, {{male:sharp hero look, styled hair, expressive intense eyes, clean jawline|female:heavy glamorous makeup, kohl eyes, glossy lips, voluminous hair}}, vibrant colorful studio lighting, filmy cinematic color grading, rich jewel-tone background, high fashion editorial, photorealistic",
+        "negativePrompt": "NEG_BOLLYWOOD",
+        "isPremium": true,
+        "category": "Heritage"
+    },
+    {
+        "name": "Royal Indian",
+        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/royal_indian.webp",
+        "prompt": "royal Indian portrait of a {{genderPerson}} wearing traditional {{genderEthnic}}, {{genderJewel}}, ornate palace background with golden arches, warm golden lighting, regal confident pose, detailed fabric embroidery texture, rich colour palette, photorealistic",
+        "negativePrompt": "NEG_ROYAL",
+        "isPremium": true,
+        "category": "Heritage"
+    },
+    {
+        "name": "Vintage Film",
+        "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/vintage.webp",
+        "prompt": "vintage 1970s film photograph portrait of a {{genderPerson}}, {{male:retro hairstyle, open collar shirt|female:vintage hairstyle, retro fashion blouse}}, warm sepia and faded orange tones, subtle film grain, soft vignette, analog photography look, gentle lens flare, photorealistic",
+        "negativePrompt": "NEG_VINTAGE",
+        "isPremium": true,
+        "category": "Heritage"
     },
     {
         "name": "Oil Painting",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/oil_painting.webp",
         "prompt": "exquisite oil painting portrait of a {{genderPerson}}, rich brushstrokes, textured canvas, classical art style, warm atmospheric lighting, masterpiece, high detail, artistic composition",
         "negativePrompt": "NEG_ARTISTIC",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Artistic"
     },
     {
         "name": "Watercolor",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/watercolor.webp",
         "prompt": "ethereal watercolor painting of a {{genderPerson}}, soft bleeding colors, paper texture, artistic splatters, delicate features, dreamy atmosphere, fluid brushwork, minimalist artistic style",
         "negativePrompt": "NEG_ARTISTIC",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Artistic"
     },
     {
         "name": "Digital Art",
         "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/digital_art.webp",
         "prompt": "stunning digital painting of a {{genderPerson}}, professional concept art style, smooth gradients, sharp focus on eyes, vibrant colors, fantasy lighting, highly detailed, 8k resolution, futuristic artistic vibe",
         "negativePrompt": "NEG_ARTISTIC",
-        "isPremium": true
+        "isPremium": true,
+        "category": "Artistic"
     }
 ]

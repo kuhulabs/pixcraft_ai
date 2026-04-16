@@ -36,7 +36,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_waterfall.webp",
     "prompt": "breathtaking waterfall travel portrait of a {{genderPerson}}, {{male:outdoor casual gear, awestruck expression looking at waterfall|female:flowy outfit, amazed peaceful expression, mist on skin}}, magnificent tall waterfall cascading into emerald pool surrounded by tropical rocks background, soft misty waterfall spray light, nature scenery, fresh air, peaceful wide landscape, travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Nature Travel"
   },
   {
@@ -68,7 +68,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_dubai.webp",
     "prompt": "ultra-modern city travel portrait of a {{genderPerson}} in Dubai, {{male:sleek modern outfit, sophisticated confident look|female:elegant modern attire, polished sophisticated expression}}, futuristic Dubai skyline with Burj Khalifa and glass towers background, dramatic blue sky or twilight, urban aesthetic, cinematic lighting, architectural travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_CITY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "City Travel"
   },
   {
@@ -92,7 +92,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_nyc.webp",
     "prompt": "iconic New York City travel portrait of a {{genderPerson}}, {{male:cool NYC streetwear, confident urban New Yorker attitude|female:stylish NYC outfit, fierce city girl energy, confident urban expression}}, iconic Manhattan skyline or Brooklyn Bridge or Times Square background, dramatic cinematic NYC light, urban aesthetic, street photography, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_TRAVEL_CITY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "City Travel"
   },
   {
@@ -132,7 +132,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_rooftop_solo.webp",
     "prompt": "atmospheric rooftop solo travel portrait of a {{genderPerson}}, {{male:casual travel outfit, sitting or standing on rooftop, soulful introspective look|female:relaxed outfit, sitting on rooftop edge with drink, peaceful soulful expression}}, beautiful city or ocean sunset panorama from rooftop background, warm golden hour light, solo traveler, candid, peaceful mood, freedom, travel lifestyle photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_SOLO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Solo Travel"
   },
   {
@@ -156,7 +156,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_maldives.webp",
     "prompt": "ultra-luxurious Maldives resort travel portrait of a {{genderPerson}}, {{male:premium resort wear, sophisticated relaxed elegance, overwater bungalow setting|female:elegant resort outfit or swimwear, radiant luxury goddess look}}, stunning overwater bungalow with crystal turquoise lagoon and coral reef background, perfect soft tropical light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -164,7 +164,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_villa.webp",
     "prompt": "opulent private villa travel portrait of a {{genderPerson}}, {{male:luxury casual resort wear, refined wealthy presence, infinity pool or villa terrace|female:elegant resort outfit, effortlessly glamorous, luxury villa terrace}}, breathtaking private villa with infinity pool overlooking ocean or mountains background, golden hour soft luxury light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -172,7 +172,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_yacht.webp",
     "prompt": "glamorous yacht luxury travel portrait of a {{genderPerson}}, {{male:yacht casual luxury wear, confident wealthy explorer at sea, captain or guest pose|female:elegant yacht fashion, sophisticated sea goddess look, hair flowing in ocean breeze}}, stunning private superyacht deck with open ocean or glamorous harbour background, bright sea light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -180,7 +180,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_luxury_hotel.webp",
     "prompt": "5-star luxury hotel travel portrait of a {{genderPerson}}, {{male:premium smart-casual attire, refined sophisticated guest look|female:elegant luxury outfit, polished glamorous hotel guest expression}}, grand opulent hotel lobby or suite with floor-to-ceiling city views background, warm sophisticated interior lighting, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -188,7 +188,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_private_jet.webp",
     "prompt": "ultra-premium private jet travel portrait of a {{genderPerson}}, {{male:luxury travel attire, powerful elite expression, private jet interior setting|female:high fashion travel look, effortless jet-set glamour, private jet cabin}}, luxurious private jet interior with leather seats and sky view window background, warm premium cabin lighting, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -196,7 +196,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_luxury_safari.webp",
     "prompt": "exclusive luxury safari travel portrait of a {{genderPerson}}, {{male:premium safari khaki outfit, adventurous yet luxurious explorer look|female:elegant safari chic outfit, sophisticated bush explorer expression}}, dramatic African savannah sunset with luxury tented camp and wildlife silhouettes background, warm golden safari light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -204,7 +204,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_spa.webp",
     "prompt": "serene luxury spa retreat portrait of a {{genderPerson}}, {{male:spa robe, completely relaxed peaceful expression, ultimate calm|female:spa robe with hair up, glowing radiant skin, blissful serene expression}}, beautiful luxury spa with tropical garden or mountain view background, soft diffused spa lighting, luxury lifestyle, elegant, premium, high-end wellness travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_LUXURY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Luxury Travel"
   },
   {
@@ -220,7 +220,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_skydiving.webp",
     "prompt": "exhilarating skydiving adventure portrait of a {{genderPerson}}, {{male:skydiving suit and goggles, pure adrenaline rush expression mid-freefall|female:skydiving gear, screaming with joy and excitement, ultimate thrill expression}}, breathtaking aerial view with clouds and tiny earth landscape below background, dramatic sky light, adventure, action, dynamic pose, energetic adventure photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_ADVENTURE",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Adventure Travel"
   },
   {
@@ -244,7 +244,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_climbing.webp",
     "prompt": "intense rock climbing adventure portrait of a {{genderPerson}}, {{male:climbing gear with harness, focused powerful expression on cliff face|female:athletic climbing outfit with gear, fierce concentrated climbing expression}}, dramatic sheer cliff face with stunning aerial valley view below background, strong directional natural light, adventure, action, dynamic pose, energetic adventure travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_ADVENTURE",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Adventure Travel"
   },
   {
@@ -276,7 +276,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_traditional.webp",
     "prompt": "beautiful cultural immersion travel portrait of a {{genderPerson}} wearing local traditional outfit, {{male:authentic traditional male costume of the destination, proud dignified cultural expression|female:beautiful authentic traditional female dress of the destination, proud graceful cultural expression}}, authentic cultural location matching the traditional dress background, warm natural cultural light, respectful cultural travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_CULTURAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cultural Travel"
   },
   {
@@ -292,7 +292,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_sunrise_heritage.webp",
     "prompt": "magical sunrise at heritage site travel portrait of a {{genderPerson}}, {{male:thoughtful traveler silhouette or portrait at golden sunrise|female:contemplative beautiful expression in first morning light at heritage site}}, breathtaking UNESCO world heritage site at dramatic golden sunrise such as Borobudur Machu Picchu or Petra background, magical golden first light rays, cultural travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_CULTURAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cultural Travel"
   },
   {
@@ -300,7 +300,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/travel_lantern.webp",
     "prompt": "enchanting lantern festival cultural travel portrait of a {{genderPerson}}, {{male:holding a glowing lantern, warm magical light on face, wonder and awe expression|female:holding beautiful glowing lantern, face illuminated by warm light, magical dreamy expression}}, thousands of glowing lanterns floating into night sky background, warm amber and gold magical lantern glow, cultural travel photography, photorealistic",
     "negativePrompt": "NEG_TRAVEL_CULTURAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cultural Travel"
   }
 ]

@@ -33,7 +33,7 @@
   },
   {
     "name": "Kawaii Girl",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_anime.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_girl.webp",
     "prompt": "super cute kawaii anime portrait of a {{genderPerson}}, {{male:adorable cute boy with big sparkly eyes, pastel casual outfit, sweet gentle expression|female:adorable kawaii girl with huge sparkling eyes, pastel pink outfit, rosy cheeks, cute hair accessories}}, soft pastel pink and lavender background with hearts and stars, warm soft lighting, ultra cute moe anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
     "isPremium": false,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Soft Pastel Anime",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_pastel.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_soft.webp",
     "prompt": "dreamy soft pastel anime portrait of a {{genderPerson}}, {{male:gentle aesthetic boy, pastel hoodie, soft warm eyes|female:beautiful girl with flowing pastel hair, dreamy soft expression, cute pastel dress}}, soft bokeh background with floating petals and pastel colors, gentle diffused light, aesthetic lo-fi anime art style, delicate soft color palette, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
     "isPremium": false,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Anime Smile",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_smile.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_anime.webp",
     "prompt": "warm cheerful anime smile portrait of a {{genderPerson}}, {{male:handsome anime boy with bright genuine smile, sparkling eyes|female:beautiful anime girl with radiant warm smile, glowing happy expression}}, bright sunny park or rooftop background, warm golden sunlight, feel-good slice-of-life anime art style, vibrant warm colors, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
     "isPremium": false,

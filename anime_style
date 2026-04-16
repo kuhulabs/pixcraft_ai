@@ -41,7 +41,7 @@
   },
   {
     "name": "Kawaii Girl",
-    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_kawaii.webp",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_anime/kawaii_anime.webp",
     "prompt": "super cute kawaii anime portrait of a {{genderPerson}}, {{male:adorable cute boy with big sparkly eyes, pastel casual outfit, sweet gentle expression|female:adorable kawaii girl with huge sparkling eyes, pastel pink outfit, rosy cheeks, cute hair accessories}}, soft pastel pink and lavender background with hearts and stars, warm soft lighting, ultra cute moe anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
     "isPremium": false,

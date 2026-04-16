@@ -100,7 +100,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_samurai.webp",
     "prompt": "noble anime samurai portrait of a {{genderPerson}}, {{male:traditional samurai kimono and hakama, katana sword, stoic honorable expression, topknot hair|female:elegant female samurai with kimono-armor fusion, katana, graceful fierce expression}}, ancient Japanese temple or cherry blossom battlefield background, dramatic sunset lighting, classic samurai anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Action Shonen"
   },
   {
@@ -116,7 +116,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_battle.webp",
     "prompt": "intense anime battle mode portrait of a {{genderPerson}}, {{male:powered-up transformation with glowing eyes, energy cracking around body, torn battle outfit|female:fierce battle transformation, glowing aura, intense power expression, battle-worn look}}, explosive battle background with energy blasts and debris, ultra dynamic composition, dramatic red and gold energy colors, intense shonen power-up anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Action Shonen"
   },
   {
@@ -140,7 +140,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_hacker.webp",
     "prompt": "anime hacker character portrait of a {{genderPerson}}, {{male:dark hoodie, multiple holographic screens reflection in eyes, typing on glowing keyboard|female:smart hacker girl with glasses, dark outfit, green matrix code reflecting in eyes}}, dark room with multiple glowing screens and code background, green and blue matrix color palette, mysterious intelligent expression, tech thriller anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cyberpunk Futuristic"
   },
   {
@@ -148,7 +148,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_ai.webp",
     "prompt": "AI android anime portrait of a {{genderPerson}}, {{male:android human hybrid with visible circuit patterns on skin, glowing blue eyes, futuristic bodysuit|female:beautiful android girl with glowing circuit skin patterns, artificial perfect features, holographic hair}}, futuristic digital void or sci-fi lab background, electric blue and white color palette, technological ethereal atmosphere, sci-fi anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cyberpunk Futuristic"
   },
   {
@@ -156,7 +156,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_scifi.webp",
     "prompt": "sci-fi space anime portrait of a {{genderPerson}}, {{male:futuristic space pilot suit, helmet visor up, confident explorer expression|female:sleek sci-fi suit, futuristic hair, determined space explorer look}}, outer space with galaxies nebulas and starships background, deep cosmic colors of purple blue and gold, epic space opera anime art style, Gundam or Macross inspired, high quality illustration",
     "negativePrompt": "NEG_ANIME_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Cyberpunk Futuristic"
   },
   {
@@ -180,7 +180,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_demon.webp",
     "prompt": "powerful dark demon anime portrait of a {{genderPerson}}, {{male:demon king with dark horns, glowing red eyes, dark aura, sinister powerful expression|female:dark demoness with elegant black horns, crimson glowing eyes, gothic dress, alluring dangerous beauty}}, dark underworld or hellfire background with dark energy and shadows, deep crimson and black color palette, Demon Slayer or Black Clover inspired dark anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Fantasy Anime"
   },
   {
@@ -196,7 +196,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_fantasy_warrior.webp",
     "prompt": "epic fantasy anime warrior portrait of a {{genderPerson}}, {{male:ornate fantasy RPG armor with glowing runes, legendary sword, heroic expression|female:fantasy heroine in detailed armored dress, magical sword or bow, powerful confident expression}}, mystical fantasy kingdom or dragon-filled sky background, epic golden and purple magical light, high fantasy RPG anime art style, Sword Art Online or Re:Zero inspired, high quality illustration",
     "negativePrompt": "NEG_ANIME_FANTASY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Fantasy Anime"
   },
   {
@@ -204,7 +204,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_sad.webp",
     "prompt": "emotional melancholic anime portrait of a {{genderPerson}}, {{male:disheveled hair, tired sad eyes, casual worn clothing, distant lost expression|female:teary glistening eyes, soft sad expression, hair falling over face, casual gentle clothing}}, soft blurred rainy window or empty park background, muted desaturated cool tones, soft diffused grey light, emotional slice-of-life anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Emotional"
   },
   {
@@ -212,7 +212,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_rain.webp",
     "prompt": "cinematic rainy anime portrait of a {{genderPerson}}, {{male:standing in rain with soaked hair, contemplative expression, jacket or coat|female:rain-soaked hair, holding umbrella or standing in rain, bittersweet emotional look}}, dramatic rainy city street or rooftop background, rain streaks and puddle reflections, moody blue and grey color palette, cinematic emotional anime art style, your lie in April or Weathering with You inspired, high quality illustration",
     "negativePrompt": "NEG_ANIME_SOFT",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Emotional"
   },
   {
@@ -220,7 +220,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_broken_hero.webp",
     "prompt": "tragic broken hero anime portrait of a {{genderPerson}}, {{male:battle-worn hero with torn outfit, haunted hollow eyes, blood or dirt on face, defeated exhausted look|female:fallen heroine with damaged armor or outfit, empty distant eyes, marks of battle, quiet resilience}}, dark destroyed battlefield or ruins background, dramatic contrast of shadow and faint light, muted desaturated color with single color accent, dark emotional shonen anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Emotional"
   },
   {
@@ -228,7 +228,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_dark_shadow.webp",
     "prompt": "mysterious dark shadow anime portrait of a {{genderPerson}}, face half consumed by darkness and shadow, {{male:only one glowing eye visible, dark silhouette, ominous presence|female:half face in darkness half in faint light, mysterious alluring shadow character}}, pitch black background with minimal dramatic single light source, extreme chiaroscuro contrast, deep blacks and single accent color, atmospheric dark psychological anime art style, high quality illustration",
     "negativePrompt": "NEG_ANIME_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Emotional"
   },
   {
@@ -236,7 +236,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_mystery.webp",
     "prompt": "mysterious enigmatic anime portrait of a {{genderPerson}}, {{male:intelligent mysterious look, sharp calculating eyes, dark stylish outfit|female:enigmatic mysterious beauty, knowing secretive expression, elegant dark attire}}, atmospheric dark library or moonlit corridor background, moody purple and deep blue tones, soft dramatic rim lighting, psychological mystery anime art style, Death Note or Moriarty inspired, high quality illustration",
     "negativePrompt": "NEG_ANIME_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Emotional"
   },
   {
@@ -244,7 +244,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_ultra_hd.webp",
     "prompt": "ultra high definition premium anime portrait of a {{genderPerson}}, {{male:perfectly detailed handsome anime male, flawless skin texture, ultra sharp eyes with complex iris detail|female:breathtakingly beautiful anime female, perfect detailed features, lustrous hair with individual strand detail}}, stunning detailed background with complex lighting, ultra fine linework, professional studio anime quality, 8K resolution detail level, best-in-class anime art illustration, premium quality",
     "negativePrompt": "NEG_ANIME_PREMIUM",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Premium Anime"
   },
   {
@@ -252,7 +252,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_movie_poster.webp",
     "prompt": "epic anime movie poster style portrait of a {{genderPerson}}, {{male:heroic protagonist pose, dynamic composition, detailed costume and design|female:iconic heroine pose, cinematic composition, detailed stunning design}}, dramatic epic background with complex scene, professional movie poster lighting and composition, cinematic widescreen aspect feel, Your Name or Demon Slayer movie inspired, premium theatrical anime illustration quality",
     "negativePrompt": "NEG_ANIME_PREMIUM",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Premium Anime"
   },
   {
@@ -260,7 +260,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_cinematic.webp",
     "prompt": "cinematic premium anime portrait of a {{genderPerson}}, {{male:sophisticated detailed character design, cinematic dramatic lighting, film-quality shading|female:stunning detailed heroine design, cinematic beauty, dramatic rim and fill lighting}}, breathtaking cinematic background scene, anamorphic lens bokeh effect, film-grade color grading with teal and orange tones, Makoto Shinkai cinematic anime art style, premium quality illustration",
     "negativePrompt": "NEG_ANIME_PREMIUM",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Premium Anime"
   },
   {
@@ -268,7 +268,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_ai_ultra.webp",
     "prompt": "ultra detailed AI generated premium anime portrait of a {{genderPerson}}, {{male:hyper-detailed male character with complex shading, perfect anatomy, intricate costume detail|female:hyper-detailed female character, complex hair rendering, intricate clothing texture, perfect detailed features}}, richly detailed background with complex environmental storytelling, professional digital painting technique, ultra fine detail in every element, best quality premium anime digital art",
     "negativePrompt": "NEG_ANIME_PREMIUM",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Premium Anime"
   },
   {
@@ -276,7 +276,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/anime_8k.webp",
     "prompt": "8K masterpiece anime portrait of a {{genderPerson}}, {{male:extraordinarily detailed male portrait, museum quality character art, perfect refined features|female:extraordinarily detailed female portrait, masterwork level beauty, perfect refined elegant features}}, exquisitely detailed atmospheric background, master-level shading and lighting technique, every detail rendered in extreme clarity, professional Japanese animation studio quality, the absolute finest anime portrait illustration",
     "negativePrompt": "NEG_ANIME_PREMIUM",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Premium Anime"
   }
 ]

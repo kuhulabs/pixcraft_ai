@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Ancient Egypt",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_egypt.webp",
+    "prompt": "ancient Egyptian time travel portrait of a {{genderPerson}}, {{male:Egyptian pharaoh or noble with golden headdress, kohl-lined eyes, white linen robe with gold jewelry|female:Egyptian queen or priestess with elaborate golden headdress, kohl eyes, white linen draped dress with gold collar}}, majestic Giza pyramids and Sphinx at golden sunset background, ancient era, historical clothing, cinematic, golden light, rich ochre and gold tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Roman Empire",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_roman.webp",
+    "prompt": "ancient Roman time travel portrait of a {{genderPerson}}, {{male:Roman senator or legionary in toga or armor with laurel wreath, commanding authoritative expression|female:Roman noblewoman in elegant draped stola with pearl jewelry, dignified aristocratic expression}}, grand Roman Colosseum or marble temple forum background, ancient era, historical clothing, cinematic, golden light, warm Mediterranean tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Medieval Era",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_medieval.webp",
+    "prompt": "medieval time travel portrait of a {{genderPerson}}, {{male:medieval nobleman or knight in chainmail and heraldic surcoat, strong chivalrous expression|female:medieval noblewoman in flowing bliaut gown with wimple, graceful dignified expression}}, dramatic medieval stone castle courtyard or misty forest background, ancient era, historical clothing, cinematic, golden light, moody torchlit atmosphere, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Ancient India",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_ancient_india.webp",
+    "prompt": "ancient Indian time travel portrait of a {{genderPerson}}, {{male:ancient Indian king or warrior in dhoti with ornate gold armor and turban, regal powerful expression|female:ancient Indian queen or apsara in silk saree with temple jewelry, radiant divine expression}}, grand ancient Indian temple or Vedic ashram with lotus ponds background, ancient era, historical clothing, cinematic, golden light, rich jewel tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Ancient China",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_ancient_china.webp",
+    "prompt": "ancient Chinese dynasty time travel portrait of a {{genderPerson}}, {{male:Chinese emperor or general in ornate dragon-embroidered hanfu robe and jade accessories|female:Chinese empress or court lady in elaborate silk hanfu with golden hair ornaments, serene elegant expression}}, grand Imperial Forbidden City palace or misty mountain temple background, ancient era, historical clothing, cinematic, golden light, red and gold palette, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Ancient Greece",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_greece.webp",
+    "prompt": "ancient Greek time travel portrait of a {{genderPerson}}, {{male:Greek hero or philosopher in draped chiton with olive laurel crown, wise heroic expression|female:Greek goddess or priestess in flowing peplos with golden diadem, divine ethereal expression}}, grand Acropolis Parthenon or coastal Greek temple at sunset background, ancient era, historical clothing, cinematic, golden light, marble white and blue tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ANCIENT",
+    "isPremium": false,
+    "category": "Ancient Past Travel"
+  },
+  {
+    "name": "Renaissance",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_renaissance.webp",
+    "prompt": "Renaissance era royal time travel portrait of a {{genderPerson}}, {{male:Italian Renaissance nobleman in doublet and hose with feathered cap, refined cultured expression|female:Renaissance noblewoman in elaborate brocade gown with pearl headdress, elegant refined expression}}, grand Italian Renaissance palazzo or Florentine court background, royal, elegant, luxury dress, palace background, warm oil-painting light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "Victorian Royal",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_victorian.webp",
+    "prompt": "Victorian royal era time travel portrait of a {{genderPerson}}, {{male:distinguished Victorian aristocrat in tailcoat with top hat and pocket watch|female:elegant Victorian lady in elaborate crinoline ball gown with lace gloves and cameo brooch}}, grand Victorian royal palace ballroom or formal garden background, royal, elegant, luxury dress, palace background, warm gaslit amber tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "Mughal Royalty",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_mughal.webp",
+    "prompt": "Mughal empire royal time travel portrait of a {{genderPerson}}, {{male:Mughal emperor in ornate sherwani with jeweled turban and emerald necklace, regal powerful expression|female:Mughal empress in richly embroidered gharara with pearl maang tikka and elaborate jewelry, majestic expression}}, grand Mughal palace with marble arches and rose gardens or Taj Mahal background, royal, elegant, luxury dress, palace background, warm golden Mughal light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "European Royalty",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_european_royal.webp",
+    "prompt": "European royal time travel portrait of a {{genderPerson}}, {{male:European king in military royal uniform with medals sash and golden epaulettes|female:European queen in magnificent ball gown with tiara crown and royal sash, graceful regal presence}}, opulent Versailles-style royal palace hall of mirrors or grand throne room background, royal, elegant, luxury dress, palace background, crystal chandelier warm light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "Baroque Era",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_baroque.webp",
+    "prompt": "Baroque era royal time travel portrait of a {{genderPerson}}, {{male:Baroque nobleman in lace jabot coat with powdered wig, aristocratic refined expression|female:Baroque noblewoman in off-shoulder silk gown with pearl necklace and powdered curled hair}}, ornate Baroque palace salon with gilded walls and oil paintings background, royal, elegant, luxury dress, palace background, Rembrandt chiaroscuro warm light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "Edo Japan Royal",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_edo.webp",
+    "prompt": "Edo period Japanese royal time travel portrait of a {{genderPerson}}, {{male:Edo period shogun or daimyo in formal kamishimo hakama with family crest mon|female:elegant geisha or noble Edo lady in ornate furisode kimono with elaborate kanzashi hair ornaments}}, beautiful Edo castle or cherry blossom garden with lanterns background, royal, elegant, luxury dress, palace background, soft Japanese golden light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "Ancient Persia",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_persia.webp",
+    "prompt": "ancient Persian royal time travel portrait of a {{genderPerson}}, {{male:Persian king in Achaemenid royal robes with cylinder crown, commanding divine expression|female:Persian queen in silk robes with elaborate golden headdress, elegant powerful expression}}, grand Persepolis palace with carved relief columns background, royal, elegant, luxury dress, palace background, ancient era, golden light, photorealistic",
+    "negativePrompt": "NEG_TIME_ROYAL",
+    "isPremium": false,
+    "category": "Royal Era Travel"
+  },
+  {
+    "name": "1920s Vintage",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_1920s.webp",
+    "prompt": "1920s Art Deco time travel portrait of a {{genderPerson}}, {{male:dapper 1920s gentleman in pinstripe suit with fedora hat and pocket square|female:glamorous flapper in beaded drop-waist dress with feather headband and long pearl necklace}}, lavish 1920s jazz club or Art Deco grand hotel background, retro vibe, vintage color grading, film grain, sepia gold tones, photorealistic",
+    "negativePrompt": "NEG_TIME_RETRO",
+    "isPremium": false,
+    "category": "Retro Decades Travel"
+  },
+  {
+    "name": "1950s Retro",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_1950s.webp",
+    "prompt": "nostalgic 1950s retro time travel portrait of a {{genderPerson}}, {{male:classic 1950s greaser in leather jacket with slicked-back pompadour, cool rockabilly attitude|female:sweet 1950s housewife or pin-up in polka dot dress with red lipstick, victory rolls hairstyle}}, classic American 1950s diner or drive-in movie background, retro vibe, vintage color grading, film grain, warm Kodachrome colors, photorealistic",
+    "negativePrompt": "NEG_TIME_RETRO",
+    "isPremium": false,
+    "category": "Retro Decades Travel"
+  },
+  {
+    "name": "1970s Disco",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_1970s.webp",
+    "prompt": "groovy 1970s disco time travel portrait of a {{genderPerson}}, {{male:1970s disco king in wide-collar satin shirt and bell-bottom trousers, cool funky expression|female:1970s disco queen in sequin dress with feather boa, afro or long feathered hair}}, vibrant 1970s disco dance floor with mirror ball and colored lights background, retro vibe, vintage color grading, film grain, warm faded orange tones, photorealistic",
+    "negativePrompt": "NEG_TIME_RETRO",
+    "isPremium": false,
+    "category": "Retro Decades Travel"
+  },
+  {
+    "name": "1980s Neon",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_1980s.webp",
+    "prompt": "bold 1980s neon time travel portrait of a {{genderPerson}}, {{male:1980s power look with shoulder-padded blazer and Ray-Ban sunglasses, big styled hair|female:bold 1980s fashion with neon outfit, crimped big hair, bold makeup, confident power expression}}, neon-lit 1980s arcade or mall background, retro vibe, vintage color grading, film grain, vivid pink and purple neon tones, photorealistic",
+    "negativePrompt": "NEG_TIME_RETRO",
+    "isPremium": false,
+    "category": "Retro Decades Travel"
+  },
+  {
+    "name": "1990s Street Style",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_1990s.webp",
+    "prompt": "authentic 1990s street style time travel portrait of a {{genderPerson}}, {{male:classic 90s streetwear with backwards cap snapback, baggy jeans, oversized flannel shirt|female:1990s girl with scrunchie, slip dress over t-shirt, platform shoes, classic 90s look}}, urban 1990s street or skate park background, retro vibe, vintage color grading, film grain, faded cool 90s color tones, photorealistic",
+    "negativePrompt": "NEG_TIME_RETRO",
+    "isPremium": false,
+    "category": "Retro Decades Travel"
+  },
+  {
+    "name": "Cyberpunk Future",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_cyberpunk_future.webp",
+    "prompt": "dystopian cyberpunk future time travel portrait of a {{genderPerson}}, {{male:cyberpunk citizen with tech implants glowing neon, layered tactical streetwear, data visor|female:cyberpunk woman with neon hair, circuit tattoos, high-tech fashion, glowing cyber eye}}, sprawling megacity neon rain-soaked streets with massive holograms background, futuristic, neon lights, high-tech, sci-fi, vivid cyan and magenta neon, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Space Civilization",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_space_civ.webp",
+    "prompt": "far future space civilization time travel portrait of a {{genderPerson}}, {{male:interstellar explorer in sleek colonist suit, confident space pioneer expression|female:space civilization citizen in elegant futuristic attire, visionary expression}}, massive space station orbiting alien planet with ring nebula background, futuristic, neon lights, high-tech, sci-fi, deep cosmic purple and blue tones, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "AI World Future",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_ai_world.webp",
+    "prompt": "AI-dominated future world time travel portrait of a {{genderPerson}}, {{male:human in AI world with subtle neural interface, clean minimalist future attire, coexisting with robots|female:woman in AI future world with holographic display, sleek minimal fashion, calm intelligent expression}}, clean white futuristic AI city with floating screens and humanoid robots background, futuristic, neon lights, high-tech, sci-fi, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Futuristic City",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_future_city.webp",
+    "prompt": "sleek futuristic city time travel portrait of a {{genderPerson}}, {{male:future urbanite in smart adaptive clothing, confident modern citizen of tomorrow|female:futuristic city dweller in elegant tech-fabric attire, poised forward-looking expression}}, breathtaking utopian city with flying vehicles clean energy towers and vertical gardens background, futuristic, neon lights, high-tech, sci-fi, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Post-Apocalyptic",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_apocalypse.webp",
+    "prompt": "gritty post-apocalyptic future time travel portrait of a {{genderPerson}}, {{male:wasteland survivor in salvaged tactical gear, battle-hardened survivor expression|female:fierce wasteland warrior in scavenged armor, powerful survivor expression}}, ruined collapsed future city with overgrown buildings and stormy sky background, futuristic, neon lights, high-tech, sci-fi, desaturated dust tones, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Underwater Future",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_underwater_future.webp",
+    "prompt": "breathtaking underwater future civilization time travel portrait of a {{genderPerson}}, {{male:aquatic future citizen in bioluminescent wetsuit, calm aquatic explorer expression|female:underwater future dweller in iridescent aqua suit, serene aquatic beauty}}, stunning deep ocean city with glowing coral architecture and giant sea creatures background, futuristic, neon lights, high-tech, sci-fi, deep blue and teal bioluminescent glow, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Mars Colony",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_mars.webp",
+    "prompt": "dramatic Mars colony future time travel portrait of a {{genderPerson}}, {{male:Mars colonist in advanced habitat suit, pioneering settler expression, red planet explorer|female:Mars colony scientist in futuristic jumpsuit, determined first-generation Martian expression}}, dramatic Martian landscape with habitat domes and red dust storms background, futuristic, neon lights, high-tech, sci-fi, rust red and orange tones, photorealistic",
+    "negativePrompt": "NEG_TIME_FUTURE",
+    "isPremium": false,
+    "category": "Future Time Travel"
+  },
+  {
+    "name": "Time Portal Entry",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_portal_entry.webp",
+    "prompt": "cinematic time portal entry portrait of a {{genderPerson}}, {{male:stepping into a swirling glowing time portal, awe and wonder expression, wind and energy effects on clothing|female:standing at threshold of glowing temporal portal, awed courageous expression, hair and clothes in energy wind}}, dramatic swirling circular time vortex with past and future scenes visible through portal background, time portal, glowing energy, cinematic transition, electric blue and gold vortex light, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Timeline Shift",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_timeline_shift.webp",
+    "prompt": "dramatic timeline shift time travel portrait of a {{genderPerson}}, body split between two eras with {{male:one half in ancient armor and one half in futuristic suit, dual reality expression|female:one half in historical gown and one half in futuristic attire, dimensional shift expression}}, split environment background with contrasting ancient ruins on one side and neon future city on other, time portal, glowing energy, cinematic transition, golden and blue energy dividing line, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Parallel World",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_parallel.webp",
+    "prompt": "mind-bending parallel world time travel portrait of a {{genderPerson}}, {{male:seeing mirror alternate self through dimensional rift, complex dueling expressions|female:facing parallel universe version through glowing portal, fascinated and unsettled expression}}, surreal environment showing multiple overlapping parallel realities simultaneously background, time portal, glowing energy, cinematic transition, iridescent multiverse colors, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Temporal Storm",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_temporal_storm.webp",
+    "prompt": "epic temporal storm time travel portrait of a {{genderPerson}}, caught inside a time storm with {{male:strong determined expression fighting temporal currents, clothing shredded by time energy|female:fierce determined expression in time storm, hair and clothing swirling in temporal energy}}, chaotic time vortex with fragments of different historical eras swirling around background, time portal, glowing energy, cinematic transition, crackling lightning and temporal energy, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Time Freeze",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_freeze.webp",
+    "prompt": "cinematic time freeze portrait of a {{genderPerson}}, only subject moving while everything else is frozen in time, {{male:walking through frozen world with confident awareness, objects suspended mid-air around|female:gracefully moving through frozen moment, frozen rain drops and suspended leaves around}}, dramatic frozen time environment with mid-motion frozen people and objects background, time portal, glowing energy, cinematic transition, cool blue frozen light, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Ghostly Echo",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_ghostly_echo.webp",
+    "prompt": "haunting temporal echo time travel portrait of a {{genderPerson}}, translucent ghost-like echoes of past versions trailing behind, {{male:historical and future echo versions fading behind main figure|female:beautiful temporal echoes of past and future selves surrounding}}, atmospheric layered environment showing ghostly past scenes background, time portal, glowing energy, cinematic transition, ethereal translucent golden glow, photorealistic",
+    "negativePrompt": "NEG_TIME_PORTAL",
+    "isPremium": false,
+    "category": "Time Portal Scenes"
+  },
+  {
+    "name": "Steam + Cyber Mix",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_steampunk_cyber.webp",
+    "prompt": "creative steampunk meets cyberpunk alternate timeline portrait of a {{genderPerson}}, {{male:Victorian steam-powered cyberpunk fusion outfit with brass gears and neon tech implants|female:steampunk corset with cyberpunk neon accents and brass goggles with digital displays}}, alternate timeline city blending Victorian steam and neon cyberpunk architecture background, alternate reality, fusion world, creative concept, brass and neon color palette, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "Fantasy History Mix",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_fantasy_history.webp",
+    "prompt": "imaginative fantasy alternate history portrait of a {{genderPerson}}, {{male:historical warrior with magical powers, ancient armor glowing with arcane energy|female:historical noblewoman who is also a powerful mage, elegant period dress with magical elements}}, alternate medieval world where magic and history coexist with dragons and castles background, alternate reality, fusion world, creative concept, warm magical historical tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "Ancient + Future Hybrid",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_ancient_future.webp",
+    "prompt": "mind-bending ancient meets future alternate timeline portrait of a {{genderPerson}}, {{male:Egyptian pharaoh aesthetic with futuristic holographic accessories and neon hieroglyphs|female:ancient goddess attire fused with futuristic tech, traditional headdress with digital elements}}, surreal environment merging ancient pyramids with floating future city background, alternate reality, fusion world, creative concept, gold and neon blue fusion palette, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "Parallel Universe Self",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_parallel_self.webp",
+    "prompt": "fascinating parallel universe self alternate timeline portrait of a {{genderPerson}}, showing dramatically different alternate self from another universe, {{male:same person but villain or hero version from parallel world, contrasting costume|female:parallel universe self with different choices and destiny, contrasting appearance}}, split reality background showing two different worlds side by side, alternate reality, fusion world, creative concept, dual contrasting color palettes, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "What If Royal Future",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_royal_future.webp",
+    "prompt": "captivating what-if royal future alternate timeline portrait of a {{genderPerson}}, {{male:futuristic space emperor with royal crown and high-tech imperial armor|female:futuristic space empress in regal gown with holographic crown}}, alternate future royal palace aboard massive space station with galaxy view background, alternate reality, fusion world, creative concept, royal gold and space blue tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "Nature Reclaimed Future",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_nature_reclaimed.webp",
+    "prompt": "beautiful nature reclaimed alternate timeline portrait of a {{genderPerson}}, {{male:peaceful human living in harmony with nature future, earthy organic attire with plant tech|female:nature guardian of alternate timeline, organic green attire blending nature and technology}}, breathtaking alternate future where nature has reclaimed cities with giant trees growing through skyscrapers background, alternate reality, fusion world, creative concept, lush green and bioluminescent tones, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  },
+  {
+    "name": "What If Medieval Tech",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft/refs/heads/main/background/time_medieval_tech.webp",
+    "prompt": "fascinating what-if medieval technology alternate timeline portrait of a {{genderPerson}}, {{male:medieval knight with impossible advanced technology like holographic shield or laser lance|female:medieval lady scientist with anachronistic inventions and scrolls with circuit diagrams}}, alternate history world where medieval era achieved modern technology but kept historical aesthetics background, alternate reality, fusion world, creative concept, photorealistic",
+    "negativePrompt": "NEG_TIME_ALTERNATE",
+    "isPremium": false,
+    "category": "Alternate Timeline"
+  }
+]

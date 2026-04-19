@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Beach Sunset",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_beach.webp",
+    "prompt": "stunning travel portrait of a {{genderPerson}} on a tropical beach at golden sunset, {{male:linen shirt open collar, relaxed confident smile, barefoot on sand|female:flowy summer dress or beach outfit, radiant glowing skin, hair moving in breeze}}, warm orange pink sunset sky over ocean waves, shallow depth of field, nature scenery, fresh air, peaceful wide landscape, 85mm lens travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Tropical Island",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_island.webp",
+    "prompt": "vibrant tropical island travel portrait of a {{genderPerson}}, {{male:casual island wear, relaxed explorer look, happy carefree expression|female:tropical sundress or sarong, natural beauty, radiant joyful smile}}, lush turquoise ocean and white sand island with palm trees background, bright tropical sunlight, nature scenery, fresh air, peaceful wide landscape, vibrant saturated colors, travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Snow Mountains",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_snow.webp",
+    "prompt": "epic mountain travel portrait of a {{genderPerson}}, {{male:winter hiking gear, rugged adventurous look, confident mountain explorer|female:stylish winter outfit, rosy cheeks from cold, adventurous glowing expression}}, dramatic snow-capped mountain peaks and valley background, crisp cold alpine light, nature scenery, fresh air, peaceful wide landscape, wide angle travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Jungle Forest",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_jungle.webp",
+    "prompt": "lush jungle forest travel portrait of a {{genderPerson}}, {{male:explorer shirt, curious adventurous expression, surrounded by greenery|female:casual adventure outfit, wonder and awe expression, soft green light on face}}, dense tropical jungle with dramatic god rays sunlight through canopy background, rich green tones, nature scenery, fresh air, peaceful wide landscape, National Geographic travel photography style, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Waterfall",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_waterfall.webp",
+    "prompt": "breathtaking waterfall travel portrait of a {{genderPerson}}, {{male:outdoor casual gear, awestruck expression looking at waterfall|female:flowy outfit, amazed peaceful expression, mist on skin}}, magnificent tall waterfall cascading into emerald pool surrounded by tropical rocks background, soft misty waterfall spray light, nature scenery, fresh air, peaceful wide landscape, travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Lake Reflections",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/nature_lake.webp",
+    "prompt": "serene lake travel portrait of a {{genderPerson}}, {{male:casual outdoor outfit, calm peaceful expression, standing near lakeside|female:elegant casual outfit, serene peaceful look, sitting near lake edge}}, perfectly still mountain lake with mirror reflection of peaks and sky background, soft golden hour light, nature scenery, fresh air, peaceful wide landscape, fine art travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL",
+    "isPremium": false,
+    "category": "Nature Travel"
+  },
+  {
+    "name": "Paris Streets",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_paris.webp",
+    "prompt": "romantic European travel portrait of a {{genderPerson}} on Parisian streets, {{male:smart casual European style outfit, effortlessly stylish look|female:chic Parisian outfit, elegant French style, confident beautiful expression}}, classic Parisian boulevard with cafe terraces and Eiffel Tower in distance background, soft golden afternoon light, urban aesthetic, street photography, cinematic lighting, travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "Italy Vibes",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_italy.webp",
+    "prompt": "beautiful Italian travel portrait of a {{genderPerson}} in Italy, {{male:relaxed Mediterranean style, gelato or espresso in hand, warm charming smile|female:elegant sundress, romantic Italian look, carefree beautiful expression}}, picturesque Amalfi coast cliffside or Tuscany vineyard or Venice canal background, warm Mediterranean golden light, urban aesthetic, street photography, cinematic lighting, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "Dubai Modern",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_dubai.webp",
+    "prompt": "ultra-modern city travel portrait of a {{genderPerson}} in Dubai, {{male:sleek modern outfit, sophisticated confident look|female:elegant modern attire, polished sophisticated expression}}, futuristic Dubai skyline with Burj Khalifa and glass towers background, dramatic blue sky or twilight, urban aesthetic, cinematic lighting, architectural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "Night City Neon",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_night.webp",
+    "prompt": "vibrant night city travel portrait of a {{genderPerson}}, {{male:stylish evening outfit, cool urban confidence, city lights reflecting on face|female:chic evening look, glowing skin from neon lights, alluring night vibe}}, dazzling city nightscape with neon signs bokeh and light trails background, warm neon and cool blue mixed lighting, urban aesthetic, street photography, cinematic night lighting, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "Old Town Heritage",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_old.webp",
+    "prompt": "charming old town heritage travel portrait of a {{genderPerson}}, {{male:classic casual outfit, curious exploring expression, wanderer look|female:vintage inspired casual outfit, charming curious expression, explorer feel}}, beautiful old cobblestone heritage street with ancient buildings colorful facades and lanterns background, warm afternoon golden light, urban aesthetic, cinematic lighting, travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "NYC Vibes",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/city_nyc.webp",
+    "prompt": "iconic New York City travel portrait of a {{genderPerson}}, {{male:cool NYC streetwear, confident urban New Yorker attitude|female:stylish NYC outfit, fierce city girl energy, confident urban expression}}, iconic Manhattan skyline or Brooklyn Bridge or Times Square background, dramatic cinematic NYC light, urban aesthetic, street photography, cinematic lighting, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CITY",
+    "isPremium": false,
+    "category": "City Travel"
+  },
+  {
+    "name": "Backpacking",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_backpack.webp",
+    "prompt": "authentic solo backpacker travel portrait of a {{genderPerson}}, {{male:casual backpacker outfit, travel backpack, unshaven carefree look, map or ticket in hand|female:comfortable backpacker outfit, travel backpack, free-spirited natural look}}, scenic travel destination street or train station background, candid travel photography feel, solo traveler, candid, peaceful mood, freedom, natural warm light, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Exploring Streets",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_exploring.webp",
+    "prompt": "candid solo explorer travel portrait of a {{genderPerson}} walking and exploring, {{male:casual comfortable walking outfit, curious expression, camera or map in hand|female:casual chic walking outfit, joyful discovering expression, exploring freely}}, beautiful atmospheric street or alley of an interesting travel destination background, soft natural light, solo traveler, candid, peaceful mood, freedom, travel lifestyle photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Cafe Moment",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_cafe.webp",
+    "prompt": "cozy solo traveler cafe moment portrait of a {{genderPerson}}, {{male:relaxed traveler with coffee and journal or laptop, thoughtful content expression|female:charming cafe moment with latte art, journal or book, peaceful happy expression}}, beautiful local cafe interior or terrace with travel destination view background, warm soft cafe light, solo traveler, candid, peaceful mood, freedom, lifestyle travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Window View",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_window.webp",
+    "prompt": "dreamy travel window view portrait of a {{genderPerson}}, {{male:looking out of airplane or train window, contemplative peaceful traveler expression|female:gazing out of airplane or scenic train window, soft dreamy expression, travel scarf}}, dramatic clouds above or beautiful passing landscape seen through window background, soft rim window light on face, solo traveler, candid, peaceful mood, freedom, cinematic travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Sunset Rooftop",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_sunset.webp",
+    "prompt": "atmospheric rooftop solo travel portrait of a {{genderPerson}}, {{male:casual travel outfit, sitting or standing on rooftop, soulful introspective look|female:relaxed outfit, sitting on rooftop edge with drink, peaceful soulful expression}}, beautiful city or ocean sunset panorama from rooftop background, warm golden hour light, solo traveler, candid, peaceful mood, freedom, travel lifestyle photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Travel Journaling",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_travel.webp",
+    "prompt": "intimate solo travel journaling portrait of a {{genderPerson}}, {{male:sitting outdoors writing in travel journal, thoughtful creative expression|female:sitting in beautiful spot writing journal with polaroids and maps, cozy thoughtful look}}, scenic travel destination or beautiful outdoor spot background, soft golden natural light, solo traveler, candid, peaceful mood, freedom, lifestyle photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Hammock Bliss",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/solo_hammock.webp",
+    "prompt": "blissful hammock travel portrait of a {{genderPerson}}, {{male:relaxed in hammock between palm trees, pure relaxation expression, island vibes|female:lounging in hammock with book or drink, serene blissful expression, carefree}}, tropical ocean or forest backdrop seen from hammock background, dappled warm light through leaves, solo traveler, candid, peaceful mood, freedom, travel lifestyle photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_SOLO",
+    "isPremium": false,
+    "category": "Solo Travel"
+  },
+  {
+    "name": "Maldives Resort",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_maldive.webp",
+    "prompt": "ultra-luxurious Maldives resort travel portrait of a {{genderPerson}}, {{male:premium resort wear, sophisticated relaxed elegance, overwater bungalow setting|female:elegant resort outfit or swimwear, radiant luxury goddess look}}, stunning overwater bungalow with crystal turquoise lagoon and coral reef background, perfect soft tropical light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Private Villa",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_vila.webp",
+    "prompt": "opulent private villa travel portrait of a {{genderPerson}}, {{male:luxury casual resort wear, refined wealthy presence, infinity pool or villa terrace|female:elegant resort outfit, effortlessly glamorous, luxury villa terrace}}, breathtaking private villa with infinity pool overlooking ocean or mountains background, golden hour soft luxury light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Yacht Life",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_yacht.webp",
+    "prompt": "glamorous yacht luxury travel portrait of a {{genderPerson}}, {{male:yacht casual luxury wear, confident wealthy explorer at sea, captain or guest pose|female:elegant yacht fashion, sophisticated sea goddess look, hair flowing in ocean breeze}}, stunning private superyacht deck with open ocean or glamorous harbour background, bright sea light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Luxury Hotel",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_hotel.webp",
+    "prompt": "5-star luxury hotel travel portrait of a {{genderPerson}}, {{male:premium smart-casual attire, refined sophisticated guest look|female:elegant luxury outfit, polished glamorous hotel guest expression}}, grand opulent hotel lobby or suite with floor-to-ceiling city views background, warm sophisticated interior lighting, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Private Jet",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_jet.webp",
+    "prompt": "ultra-premium private jet travel portrait of a {{genderPerson}}, {{male:luxury travel attire, powerful elite expression, private jet interior setting|female:high fashion travel look, effortless jet-set glamour, private jet cabin}}, luxurious private jet interior with leather seats and sky view window background, warm premium cabin lighting, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Luxury Safari",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_saf.webp",
+    "prompt": "exclusive luxury safari travel portrait of a {{genderPerson}}, {{male:premium safari khaki outfit, adventurous yet luxurious explorer look|female:elegant safari chic outfit, sophisticated bush explorer expression}}, dramatic African savannah sunset with luxury tented camp and wildlife silhouettes background, warm golden safari light, luxury lifestyle, elegant, premium, high-end travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Spa Retreat",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/luxury_spa.webp",
+    "prompt": "serene luxury spa retreat portrait of a {{genderPerson}}, {{male:spa robe, completely relaxed peaceful expression, ultimate calm|female:spa robe with hair up, glowing radiant skin, blissful serene expression}}, beautiful luxury spa with tropical garden or mountain view background, soft diffused spa lighting, luxury lifestyle, elegant, premium, high-end wellness travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_LUXURY",
+    "isPremium": false,
+    "category": "Luxury Travel"
+  },
+  {
+    "name": "Mountain Trekking",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/adventure_mountain.webp",
+    "prompt": "epic mountain trekking adventure portrait of a {{genderPerson}}, {{male:full hiking gear with trekking poles, strong determined trekker expression|female:athletic hiking outfit, strong empowered hiker expression}}, dramatic mountain trail with stunning valley panorama background, harsh natural mountain light, adventure, action, dynamic pose, energetic travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_ADVENTURE",
+    "isPremium": false,
+    "category": "Adventure Travel"
+  },
+  {
+    "name": "Skydiving",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/adventure_sky.webp",
+    "prompt": "exhilarating skydiving adventure portrait of a {{genderPerson}}, {{male:skydiving suit and goggles, pure adrenaline rush expression mid-freefall|female:skydiving gear, screaming with joy and excitement, ultimate thrill expression}}, breathtaking aerial view with clouds and tiny earth landscape below background, dramatic sky light, adventure, action, dynamic pose, energetic adventure photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_ADVENTURE",
+    "isPremium": false,
+    "category": "Adventure Travel"
+  },
+  {
+    "name": "Desert Safari",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/adventure_desert.webp",
+    "prompt": "thrilling desert safari adventure portrait of a {{genderPerson}}, {{male:desert adventure outfit with shemagh scarf, rugged desert explorer look|female:desert adventure chic outfit, fierce explorer expression, windswept hair}}, vast dramatic golden sand dune desert with camel silhouettes or dune buggy background, warm desert light with golden dust, adventure, action, dynamic pose, energetic travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_ADVENTURE",
+    "isPremium": false,
+    "category": "Adventure Travel"
+  },
+  {
+    "name": "Water Sports",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/adventure_water.webp",
+    "prompt": "dynamic water sports adventure portrait of a {{genderPerson}}, {{male:surfing or kayaking gear, athletic energetic look, ocean adrenaline expression|female:water sports outfit, dynamic powerful expression, ocean spray on face}}, dramatic ocean waves or tropical water sports setting background, bright tropical light with water spray, adventure, action, dynamic pose, energetic sports travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_ADVENTURE",
+    "isPremium": false,
+    "category": "Adventure Travel"
+  },
+  {
+    "name": "Rock Climbing",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/adventure_rock.webp",
+    "prompt": "intense rock climbing adventure portrait of a {{genderPerson}}, {{male:climbing gear with harness, focused powerful expression on cliff face|female:athletic climbing outfit with gear, fierce concentrated climbing expression}}, dramatic sheer cliff face with stunning aerial valley view below background, strong directional natural light, adventure, action, dynamic pose, energetic adventure travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_ADVENTURE",
+    "isPremium": false,
+    "category": "Adventure Travel"
+  },
+  {
+    "name": "Temple Monuments",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_temple.webp",
+    "prompt": "meaningful cultural travel portrait of a {{genderPerson}} at ancient temples, {{male:respectful casual travel outfit, curious reverent expression, cultural interest|female:appropriate cultural attire, respectful wonder expression, cultural immersion}}, magnificent ancient temple complex or world heritage monument background such as Angkor Wat or Taj Mahal, soft atmospheric morning light, cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Local Festival",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_festival.webp",
+    "prompt": "vibrant cultural festival travel portrait of a {{genderPerson}}, {{male:festive cultural outfit or face paint, joyful celebration expression|female:colorful festival attire, joyful glowing celebration expression}}, spectacular cultural festival background with colorful decorations lanterns and celebrating crowd, warm festive golden light, immersive cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Local Market",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_market.webp",
+    "prompt": "authentic local market cultural travel portrait of a {{genderPerson}}, {{male:casual explorer outfit, genuinely curious and engaged expression, shopping local|female:casual travel outfit, warm curious expression, interacting with local culture}}, vibrant and colorful local bazaar or souk or floating market background, warm ambient natural market light, candid cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Traditional Outfit",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_tradition.webp",
+    "prompt": "beautiful cultural immersion travel portrait of a {{genderPerson}} wearing local traditional outfit, {{male:authentic traditional male costume of the destination, proud dignified cultural expression|female:beautiful authentic traditional female dress of the destination, proud graceful cultural expression}}, authentic cultural location matching the traditional dress background, warm natural cultural light, respectful cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Street Food",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_street.webp",
+    "prompt": "authentic street food cultural travel portrait of a {{genderPerson}}, {{male:casual foodie explorer look, joyful expression tasting local street food|female:casual travel outfit, delighted expression experiencing local street food}}, vibrant and lively street food market with colorful food stalls and local crowd background, warm ambient street food stall light, candid food travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Sunrise Heritage",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_sunrise.webp",
+    "prompt": "magical sunrise at heritage site travel portrait of a {{genderPerson}}, {{male:thoughtful traveler silhouette or portrait at golden sunrise|female:contemplative beautiful expression in first morning light at heritage site}}, breathtaking UNESCO world heritage site at dramatic golden sunrise such as Borobudur Machu Picchu or Petra background, magical golden first light rays, cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  },
+  {
+    "name": "Lantern Festival",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_travel/cultural_lantern.webp",
+    "prompt": "enchanting lantern festival cultural travel portrait of a {{genderPerson}}, {{male:holding a glowing lantern, warm magical light on face, wonder and awe expression|female:holding beautiful glowing lantern, face illuminated by warm light, magical dreamy expression}}, thousands of glowing lanterns floating into night sky background, warm amber and gold magical lantern glow, cultural travel photography, photorealistic",
+    "negativePrompt": "NEG_TRAVEL_CULTURAL",
+    "isPremium": false,
+    "category": "Cultural Travel"
+  }
+]

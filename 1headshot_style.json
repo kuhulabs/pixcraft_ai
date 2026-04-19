@@ -1,0 +1,346 @@
+[
+  {
+    "name": "LinkedIn",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_linkdin.webp",
+    "prompt": "professional corporate headshot of a {{genderPerson}}, wearing a {{genderAttire}}, studio lighting, clean neutral background, sharp focus, confident expression, natural skin tones, high detail, 85mm lens photography, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": false,
+    "category": "Professional"
+  },
+  {
+    "name": "Startup",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_startup.webp",
+    "prompt": "startup founder headshot of a {{genderPerson}}, smart casual attire, {{male:open collar shirt, confident relaxed expression|female:business casual blouse, approachable smile}}, warm tones, soft blurred modern office background, natural window lighting, shallow depth of field, authentic candid feel, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Doctor",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_doctor.webp",
+    "prompt": "professional medical headshot of a {{genderPerson}} wearing a white doctor coat, {{male:stethoscope, clean shave, authoritative calm expression|female:stethoscope, hair tied back, compassionate professional expression}}, clean clinical white background, soft studio lighting, sharp focus, trustworthy look, high detail, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Lawyer",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_lawyer.webp",
+    "prompt": "formal lawyer headshot of a {{genderPerson}}, {{male:dark formal suit, tie, serious authoritative expression|female:formal blazer, serious composed expression}}, classic law office background with bookshelves, warm dim lighting, professional serious tone, sharp focus, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Teacher",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_teacher.webp",
+    "prompt": "academic teacher headshot of a {{genderPerson}}, {{male:smart casual shirt, warm friendly expression, glasses optional|female:smart casual top, warm welcoming smile, approachable look}}, warm cozy classroom or bookshelf background, soft natural lighting, intellectual approachable vibe, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Engineer",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_eng.webp",
+    "prompt": "professional tech engineer headshot of a {{genderPerson}}, {{male:casual tech hoodie or shirt, laptop or code screen background|female:smart casual top, modern office tech background}}, clean modern workspace setting, soft ambient lighting, confident focused expression, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Executive",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/professional_exicutive.webp",
+    "prompt": "C-suite executive headshot of a {{genderPerson}}, {{male:premium tailored suit, power pose, commanding presence|female:elegant power blazer, authoritative confident expression}}, luxury office or boardroom background, dramatic professional lighting, sharp focus, high-end corporate feel, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Professional"
+  },
+  {
+    "name": "Golden Hour",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_golden_hour.webp",
+    "prompt": "golden hour portrait of a {{genderPerson}}, warm sunset backlight, soft orange and amber rim lighting, dreamy shallow bokeh outdoor background, {{male:relaxed masculine expression|female:soft feminine glow, hair catching the light}}, natural skin, 85mm lens, photorealistic, high detail, cinematic warmth",
+    "negativePrompt": "NEG_GOLDEN",
+    "isPremium": false,
+    "category": "Social"
+  },
+  {
+    "name": "Cafe Vibe",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_cafe.webp",
+    "prompt": "candid lifestyle portrait of a {{genderPerson}} in a cozy cafe, {{male:casual shirt, relaxed confident smile|female:casual chic outfit, natural warm smile}}, warm bokeh coffee shop background, natural window light, authentic relaxed mood, shallow depth of field, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Social"
+  },
+  {
+    "name": "Street Style",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_street.webp",
+    "prompt": "urban street style portrait of a {{genderPerson}}, {{male:trendy streetwear, cool casual pose|female:fashionable street outfit, confident urban look}}, city street background with bokeh lights, natural ambient light, editorial street photography feel, sharp focus, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Social"
+  },
+  {
+    "name": "Rooftop",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_roof.webp",
+    "prompt": "rooftop lifestyle portrait of a {{genderPerson}}, {{male:smart casual look, city skyline behind|female:stylish outfit, cityscape golden hour background}}, open sky with city buildings background, soft sunset lighting, breezy confident expression, shallow depth of field, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Social"
+  },
+  {
+    "name": "Beach",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_beach.webp",
+    "prompt": "beach lifestyle portrait of a {{genderPerson}}, {{male:linen shirt open collar, sun-kissed skin, relaxed smile|female:summer dress or beach outfit, natural beauty, radiant smile}}, ocean waves background, soft natural sunlight, happy relaxed mood, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Social"
+  },
+  {
+    "name": "Party Glam",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/social_party.webp",
+    "prompt": "glamorous party portrait of a {{genderPerson}}, {{male:stylish blazer or party wear, charming confident smile|female:elegant party dress, glamorous makeup, dazzling look}}, luxury event background with bokeh lights, warm evening lighting, festive vibrant atmosphere, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Social"
+  },
+  {
+    "name": "B&W",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_b&w.webp",
+    "prompt": "professional black and white studio headshot of a {{genderPerson}}, clean white background, sharp focus on eyes and facial features, soft cinematic side lighting, strong jawline definition, {{male:masculine facial structure|female:feminine facial structure, soft features}}, 8k resolution, highly detailed skin texture, minimalist aesthetic, photorealistic",
+    "negativePrompt": "NEG_BW",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Cinematic",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_cinematic.webp",
+    "prompt": "cinematic headshot portrait of a {{genderPerson}}, dramatic Rembrandt lighting, soft deep shadows, high contrast, ultra detailed face, shallow depth of field, {{male:strong jawline, masculine features|female:delicate features, feminine elegance}}, anamorphic film look, professional photography, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Mountain Hiker",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_mountain.webp",
+    "prompt": "outdoor adventure portrait of a {{genderPerson}}, {{male:rugged hiking gear, beard, strong determined expression|female:outdoor activewear, natural confident look, wind in hair}}, dramatic mountain landscape background, crisp natural light, adventurous free-spirited vibe, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Fitness",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_fitness.webp",
+    "prompt": "athletic fitness portrait of a {{genderPerson}}, {{male:gym wear, muscular physique, powerful determined look|female:athletic wear, toned fit look, strong confident expression}}, modern gym or outdoor sports background, dynamic dramatic lighting, motivational energy, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Cozy Home",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_cozyhome.webp",
+    "prompt": "cozy home lifestyle portrait of a {{genderPerson}}, {{male:comfortable casual wear, warm relaxed smile|female:cozy sweater or home attire, soft natural makeup, warm smile}}, beautiful living room or home interior background, soft warm natural light, authentic homey feel, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Travel Explorer",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/lifestyle_travel.webp",
+    "prompt": "travel explorer portrait of a {{genderPerson}}, {{male:travel casual outfit, curious confident look|female:travel chic attire, adventurous glowing expression}}, iconic world landmark background such as Eiffel Tower or Santorini, natural daylight, wanderlust vibe, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Magazine",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_magazine.webp",
+    "prompt": "Vogue magazine cover style portrait of a {{genderPerson}}, {{male:sharp masculine editorial look, designer suit|female:high fashion editorial, designer couture, flawless skin}}, dramatic studio lighting, seamless gradient background, ultra sharp focus, premium skin retouching, luxury aesthetic, 4k, photorealistic",
+    "negativePrompt": "NEG_MAGAZINE",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Neon Creative",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_neon.webp",
+    "prompt": "creative headshot portrait of a {{genderPerson}} with colorful neon lighting, vibrant gradient background, modern artistic style, sharp focus, {{male:bold masculine expression|female:expressive feminine look}}, high detail face, neon rim light, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Double Exposure",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_double.webp",
+    "prompt": "artistic double exposure portrait of a {{genderPerson}}, face blended with nature or cityscape scenery, dreamlike surreal composition, {{male:strong masculine silhouette|female:soft feminine silhouette}}, monochromatic or duotone color palette, high contrast, artistic photography",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Pop Art",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_pop.webp",
+    "prompt": "bold pop art style portrait of a {{genderPerson}}, Andy Warhol inspired, vivid flat colors, halftone dot pattern, strong graphic outlines, {{male:sharp masculine pop art look|female:glamorous retro pop art beauty}}, comic book aesthetic, high contrast saturated colors",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Glitch Art",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_glich.webp",
+    "prompt": "glitch art portrait of a {{genderPerson}}, digital corruption effects, RGB color split, pixel distortion, {{male:edgy futuristic look|female:cyberpunk feminine look}}, dark tech background, neon accents, avant-garde digital aesthetic, high detail face",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Silhouette",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/creative_silho.webp",
+    "prompt": "dramatic silhouette portrait of a {{genderPerson}}, strong backlight creating perfect silhouette, vibrant sunset or colorful sky background, {{male:powerful masculine profile|female:elegant feminine profile}}, high contrast rim lighting, cinematic mood, artistic composition, photorealistic",
+    "negativePrompt": "NEG_HEADSHOT",
+    "isPremium": true,
+    "category": "Creative"
+  },
+  {
+    "name": "Elf / Fairy",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_fairy.webp",
+    "prompt": "fantasy elf portrait of a {{genderPerson}}, {{male:elven warrior with pointed ears, forest armor, piercing intense gaze|female:ethereal fairy elf, delicate pointed ears, glowing skin, flowing magical hair}}, enchanted forest background with mystical light rays, magical bokeh, otherworldly atmosphere, highly detailed, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Dark Wizard",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_dark.webp",
+    "prompt": "dark fantasy wizard portrait of a {{genderPerson}}, {{male:dramatic wizard robes, mysterious glowing eyes, arcane symbols|female:sorceress with mystical robes, powerful magical aura, intense expression}}, dark gothic castle background with magical energy, dramatic moody lighting, cinematic fantasy feel, highly detailed, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Warrior",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_warrior.webp",
+    "prompt": "epic fantasy warrior portrait of a {{genderPerson}}, {{male:battle-worn armor, sword, fierce determined expression|female:warrior princess armor, strong fierce look, battle-ready pose}}, dramatic battlefield or epic mountain background, golden epic lighting, cinematic composition, highly detailed armor texture, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Vampire",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_vampire.webp",
+    "prompt": "gothic vampire portrait of a {{genderPerson}}, {{male:aristocratic vampire look, dark elegant suit, pale skin, piercing eyes|female:dark gothic vampire beauty, dramatic makeup, pale ethereal skin, crimson lips}}, dark gothic castle interior background, candle lit moody atmosphere, dramatic shadows, mysterious alluring expression, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Angel",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_angel.webp",
+    "prompt": "divine celestial angel portrait of a {{genderPerson}}, {{male:powerful archangel with golden armor, massive white wings, radiant presence|female:ethereal angel with soft white wings, glowing halo, pure serene expression}}, heavenly clouds and golden light background, soft divine glow, majestic celestial atmosphere, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Dragon Rider",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/fantasy_dragon.webp",
+    "prompt": "epic dragon rider portrait of a {{genderPerson}}, {{male:dragonlord armor, commanding presence, dragon scales detail|female:dragon rider with flowing hair, fierce powerful expression, fantasy armor}}, massive dragon silhouette and volcanic mountain background, fiery epic lighting, cinematic fantasy composition, highly detailed, photorealistic",
+    "negativePrompt": "NEG_FANTASY",
+    "isPremium": true,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Bollywood",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_bollywood.webp",
+    "prompt": "Bollywood style glamorous portrait of a {{genderPerson}}, {{male:sharp hero look, styled hair, expressive intense eyes, clean jawline|female:heavy glamorous makeup, kohl eyes, glossy lips, voluminous hair}}, vibrant colorful studio lighting, filmy cinematic color grading, rich jewel-tone background, high fashion editorial, photorealistic",
+    "negativePrompt": "NEG_BOLLYWOOD",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "Royal Indian",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_indian.webp",
+    "prompt": "royal Indian portrait of a {{genderPerson}} wearing traditional {{genderEthnic}}, {{genderJewel}}, ornate palace background with golden arches, warm golden lighting, regal confident pose, detailed fabric embroidery texture, rich colour palette, photorealistic",
+    "negativePrompt": "NEG_ROYAL",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "Vintage Film",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_vintage.webp",
+    "prompt": "vintage 1970s film photograph portrait of a {{genderPerson}}, {{male:retro hairstyle, open collar shirt|female:vintage hairstyle, retro fashion blouse}}, warm sepia and faded orange tones, subtle film grain, soft vignette, analog photography look, gentle lens flare, photorealistic",
+    "negativePrompt": "NEG_VINTAGE",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "Samurai",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_samurai.webp",
+    "prompt": "traditional Japanese samurai portrait of a {{genderPerson}}, {{male:ornate samurai armor, katana, stoic warrior expression|female:kunoichi ninja attire or kimono warrior look, fierce graceful expression}}, traditional Japanese temple or cherry blossom background, soft natural lighting, cultural authentic atmosphere, photorealistic",
+    "negativePrompt": "NEG_ROYAL",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "African Royalty",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_african.webp",
+    "prompt": "majestic African royalty portrait of a {{genderPerson}}, {{male:traditional African king attire with rich kente cloth, crown, regal expression|female:African queen with elaborate traditional gown, crown and beaded jewelry, majestic presence}}, grand African palace or savannah background, warm golden lighting, powerful dignified expression, photorealistic",
+    "negativePrompt": "NEG_ROYAL",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "Cowboy Western",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/culture_cowboy.webp",
+    "prompt": "classic American western cowboy portrait of a {{genderPerson}}, {{male:cowboy hat, rugged denim shirt, leather vest, strong weathered look|female:western cowgirl hat, frontier attire, spirited confident look}}, dusty desert or ranch background with sunset, warm golden dust-filled light, vintage western film aesthetic, photorealistic",
+    "negativePrompt": "NEG_VINTAGE",
+    "isPremium": true,
+    "category": "Cultural"
+  },
+  {
+    "name": "Oil Painting",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_oil.webp",
+    "prompt": "exquisite oil painting portrait of a {{genderPerson}}, rich brushstrokes, textured canvas, classical Renaissance art style, old master technique, warm atmospheric lighting, masterpiece quality, high detail, artistic composition, museum worthy",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  },
+  {
+    "name": "Watercolor",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_watercolor.webp",
+    "prompt": "ethereal watercolor painting of a {{genderPerson}}, soft bleeding colors, paper texture, artistic splatters, delicate features, dreamy atmosphere, fluid brushwork, minimalist artistic style",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  },
+  {
+    "name": "Digital Art",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_digital.webp",
+    "prompt": "stunning digital painting of a {{genderPerson}}, professional concept art style, smooth gradients, sharp focus on eyes, vibrant colors, fantasy lighting, highly detailed, 8k resolution, futuristic artistic vibe",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  },
+  {
+    "name": "Charcoal Sketch",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_charcol.webp",
+    "prompt": "detailed charcoal sketch portrait of a {{genderPerson}}, hand-drawn charcoal on white textured paper, strong contrasting shadows, expressive gestural strokes, {{male:strong masculine features captured in charcoal|female:soft feminine features in charcoal detail}}, fine art drawing style, classical atelier technique",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  },
+  {
+    "name": "Impressionist",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_impresion.webp",
+    "prompt": "Monet-inspired impressionist portrait of a {{genderPerson}}, loose painterly brushstrokes, soft dappled light, impressionist color palette of soft blues and warm yellows, garden or nature background, dreamy soft-focus feel, fine art painting style, museum quality",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  },
+  {
+    "name": "Anime",
+    "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style/art_anime.webp",
+    "prompt": "high quality anime style portrait of a {{genderPerson}}, {{male:handsome anime hero with sharp eyes and stylized hair|female:beautiful anime heroine with large expressive eyes, detailed hair}}, vibrant anime color palette, clean detailed linework, soft anime shading, dynamic background with light effects, Studio Ghibli or modern anime aesthetic",
+    "negativePrompt": "NEG_ARTISTIC",
+    "isPremium": true,
+    "category": "Artistic"
+  }
+]

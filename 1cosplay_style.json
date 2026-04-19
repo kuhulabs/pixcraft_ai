@@ -12,7 +12,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_demon.webp",
     "prompt": "anime cosplay portrait of a {{genderPerson}} in Demon Slayer inspired costume, {{male:detailed Taisho era haori cloak over uniform, katana sword, intense focused expression|female:feminine Demon Slayer uniform with haori, graceful fierce expression, sword pose}}, misty Japanese forest or moonlit night battle background, vivid flame and water breathing effect colors, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -20,7 +20,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_attack.webp",
     "prompt": "anime cosplay portrait of a {{genderPerson}} in Attack on Titan Survey Corps costume, {{male:green military cape with Wings of Freedom emblem, ODM gear harness, determined soldier expression|female:Survey Corps uniform with ODM gear, fierce brave soldier expression, strong pose}}, dramatic destroyed wall city or cloudy sky background, moody desaturated military tones, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -28,7 +28,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_shojo.webp",
     "prompt": "beautiful shojo anime cosplay portrait of a {{genderPerson}}, {{male:elegant romantic shoujo male costume, handsome gentle expression, flower petals|female:gorgeous shojo heroine dress with detailed accessories, soft romantic expression, flowing hair}}, dreamy soft bokeh garden or pastel backdrop with rose petals background, warm romantic diffused lighting, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY_SOFT",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -36,7 +36,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_magical.webp",
     "prompt": "fantasy anime magic cosplay portrait of a {{genderPerson}}, {{male:mystical anime mage costume with glowing staff or grimoire, magical power expression|female:magical girl or sorceress anime costume with wand or orb, casting spell expression}}, swirling magical energy and sparkling particle effects background, vibrant magical color palette of pink gold and purple, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -44,7 +44,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_school.webp",
     "prompt": "classic school anime cosplay portrait of a {{genderPerson}}, {{male:perfect Japanese school uniform blazer or gakuran, charming friendly anime expression|female:cute Japanese sailor fuku or blazer school uniform, sweet expressive anime girl look}}, beautiful anime school rooftop or classroom with cherry blossoms background, soft warm afternoon school light, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY_SOFT",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -52,7 +52,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/anime_one.webp",
     "prompt": "One Piece anime cosplay portrait of a {{genderPerson}}, {{male:pirate captain costume with straw hat and open vest, adventurous grinning expression|female:pirate navigator or warrior costume, bold confident pirate expression}}, grand pirate ship deck with ocean horizon or island background, vibrant saturated tropical colors, anime cosplay, detailed costume, vibrant colors, photorealistic",
     "negativePrompt": "NEG_COSPLAY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Anime Cosplay"
   },
   {
@@ -68,7 +68,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_fairy.webp",
     "prompt": "enchanting fairy fantasy cosplay portrait of a {{genderPerson}}, {{male:forest fairy prince with delicate iridescent wings, nature attire, mischievous charming look|female:beautiful fairy with large shimmering translucent wings, delicate floral costume, magical glowing expression}}, magical miniature flower garden or glowing forest at dusk background, soft iridescent fairy light glow, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_FANTASY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -76,7 +76,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_maze.webp",
     "prompt": "powerful mage wizard fantasy cosplay portrait of a {{genderPerson}}, {{male:grand wizard robes with arcane runes, tall staff with glowing crystal, commanding magical authority|female:elegant sorceress robes with mystical staff or spellbook, powerful magical casting expression}}, dramatic magic academy tower or ancient arcane library background, swirling magical energy effects, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_FANTASY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -84,7 +84,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_dark.webp",
     "prompt": "alluring dark witch fantasy cosplay portrait of a {{genderPerson}}, {{male:dark warlock with black elaborate robes, grimoire, sinister intelligent expression|female:gorgeous dark witch with black corset gown, pointed hat, cauldron, wickedly beautiful expression}}, atmospheric dark forest with glowing potion bottles and dark magic symbols background, eerie green and purple magical light, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -92,7 +92,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_vampire.webp",
     "prompt": "aristocratic vampire fantasy cosplay portrait of a {{genderPerson}}, {{male:elegant vampire lord with dark noble coat, fangs, pale skin, crimson eyes, commanding presence|female:vampire countess with dramatic gothic gown, fangs, pale ethereal beauty, alluring dangerous expression}}, gothic castle hall with candelabras and dark tapestries background, dramatic candlelight glow, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -100,7 +100,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_mythical.webp",
     "prompt": "epic mythical dragon-themed fantasy cosplay portrait of a {{genderPerson}}, {{male:dragonlord armor with dragon scale texture, horned helmet, fierce dragon rider expression|female:dragon princess armor with iridescent dragon scales, fierce regal dragon rider expression}}, volcanic mountain peak or dragon nest with fire and smoke background, dramatic fire glow and smoke lighting, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_FANTASY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -108,7 +108,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/game_game.webp",
     "prompt": "epic video game RPG hero cosplay portrait of a {{genderPerson}}, {{male:detailed RPG protagonist armor with glowing sword, legendary hero expression|female:RPG heroine armor with magical weapon, legendary hero expression}}, epic fantasy game world background with glowing runes and dramatic skyscape, game UI aesthetic lighting, fantasy cosplay, magical aura, glowing effects, photorealistic",
     "negativePrompt": "NEG_COSPLAY_FANTASY",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Game Fantasy Cosplay"
   },
   {
@@ -116,7 +116,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_cyber.webp",
     "prompt": "edgy cyberpunk cosplay portrait of a {{genderPerson}}, {{male:futuristic cyberpunk jacket with tech implants, glowing cyber eye, neon-streaked hair|female:cyberpunk bodysuit with LED accents, glowing tech implants, neon hair, fierce futuristic look}}, rain-soaked neon megacity street at night background, vivid pink cyan and purple neon reflections, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -124,7 +124,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_future.webp",
     "prompt": "impressive futuristic power armor cosplay portrait of a {{genderPerson}}, {{male:sleek advanced military exosuit with glowing energy cells, elite soldier expression|female:futuristic armored suit with glowing accents, powerful warrior expression}}, sci-fi military base or space station interior background, dramatic cool blue tech lighting, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -132,7 +132,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_android.webp",
     "prompt": "stunning android robot cosplay portrait of a {{genderPerson}}, {{male:humanoid android with visible circuit panels and glowing joints, mechanical perfection expression|female:beautiful android with circuit pattern skin accents, glowing eyes, perfect artificial features}}, clean white futuristic lab or digital void background, electric blue and white light, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -140,7 +140,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_space.webp",
     "prompt": "epic space explorer cosplay portrait of a {{genderPerson}}, {{male:detailed sci-fi space suit with helmet visor up, intrepid explorer expression|female:sleek futuristic space suit, brave explorer expression, space backdrop}}, outer space with vivid nebula galaxy and distant planets background, dramatic space lighting, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -148,7 +148,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_hacker.webp",
     "prompt": "mysterious hacker sci-fi cosplay portrait of a {{genderPerson}}, {{male:dark hoodie with holographic displays, matrix green code reflecting in eyes, genius hacker expression|female:dark high-tech outfit, glowing glasses, green code in eyes, mysterious elite hacker look}}, dark server room with green matrix code screens background, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -156,7 +156,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/sci-fi_neon.webp",
     "prompt": "ultra-cool neon ninja sci-fi cosplay portrait of a {{genderPerson}}, {{male:sleek black ninja suit with neon blue energy lines, glowing visor, stealth pose|female:fitted neon-accented ninja outfit, glowing details, fierce agile expression}}, dark neon city rooftop at night background, dramatic neon rim lighting, neon lights, futuristic, high-tech, cinematic, photorealistic",
     "negativePrompt": "NEG_COSPLAY_CYBER",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Sci-Fi Cyberpunk Cosplay"
   },
   {
@@ -164,7 +164,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/historical_queen.webp",
     "prompt": "magnificent royal queen cosplay portrait of a {{genderPerson}}, {{male:regal king costume with golden crown, jeweled cape, commanding royal authority|female:opulent queen gown with elaborate crown and jewels, graceful regal authority expression}}, grand royal throne room with golden pillars and stained glass background, warm royal golden lighting, royal, elegant, detailed costume, historical, photorealistic",
     "negativePrompt": "NEG_COSPLAY_ROYAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Historical Royal Cosplay"
   },
   {
@@ -172,7 +172,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/historical_medieval.webp",
     "prompt": "noble medieval knight cosplay portrait of a {{genderPerson}}, {{male:shining full plate armor with heraldic shield and sword, honorable chivalrous knight expression|female:lady knight in detailed plate armor, sword in hand, fierce noble warrior expression}}, misty medieval castle courtyard or battlefield background, dramatic overcast or sunset medieval light, royal, elegant, detailed costume, historical, photorealistic",
     "negativePrompt": "NEG_COSPLAY_ROYAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Historical Royal Cosplay"
   },
   {
@@ -180,7 +180,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/historical_samurai.webp",
     "prompt": "authentic samurai warrior cosplay portrait of a {{genderPerson}}, {{male:ornate full samurai armor with kabuto helmet, katana sword, stoic warrior expression|female:onna-musha female samurai with naginata, detailed armor, fierce graceful warrior expression}}, ancient Japanese castle or cherry blossom battlefield background, soft dramatic Japanese light, royal, elegant, detailed costume, historical, photorealistic",
     "negativePrompt": "NEG_COSPLAY_ROYAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Historical Royal Cosplay"
   },
   {
@@ -188,7 +188,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/historical_victorian.webp",
     "prompt": "elegant Victorian era cosplay portrait of a {{genderPerson}}, {{male:distinguished Victorian gentleman suit with top hat pocket watch and cane|female:elaborate Victorian corset gown with bustle, lace gloves, ornate hat}}, grand Victorian manor interior or foggy London gas-lit street background, warm period-accurate vintage lighting, royal, elegant, detailed costume, historical, photorealistic",
     "negativePrompt": "NEG_COSPLAY_ROYAL",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Historical Royal Cosplay"
   },
   {
@@ -196,7 +196,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_marvel.webp",
     "prompt": "epic Marvel inspired superhero cosplay portrait of a {{genderPerson}}, {{male:powerful original superhero costume with cape or armor, heroic determined expression, power energy effects|female:dynamic superheroine costume with cape, fierce heroic expression, glowing power effects}}, dramatic city rooftop or sky background with energy effects, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_HERO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -204,7 +204,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_female.webp",
     "prompt": "powerful female superhero cosplay portrait of a {{genderPerson}}, {{male:male version of classic female superhero costume, strong heroic expression|female:iconic superheroine costume with cape and emblem, fierce powerful confident expression, dynamic pose}}, dramatic cityscape or heroic sky with energy light rays background, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_HERO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -212,7 +212,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_dark.webp",
     "prompt": "brooding dark hero cosplay portrait of a {{genderPerson}}, {{male:dark tactical hero suit with cape and cowl, intense brooding vigilante expression|female:dark heroine suit with tactical gear, fierce vigilante expression}}, rain-soaked dark city rooftop or gothic gargoyle background, dramatic dark side lighting, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -220,7 +220,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_casual.webp",
     "prompt": "stylish casual superhero cosplay portrait of a {{genderPerson}}, {{male:cool civilian clothes with subtle superhero elements like logo hoodie or partial suit|female:fashionable casual outfit with superhero motifs, confident playful hero expression}}, modern city street or urban rooftop background, natural urban sunlight, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_HERO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -228,7 +228,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_iron.webp",
     "prompt": "impressive powered iron armor superhero cosplay portrait of a {{genderPerson}}, {{male:sleek tech power armor suit with glowing chest reactor, genius inventor hero expression|female:elegant powered armor suit with glowing accents, fierce brilliant engineer hero expression}}, high-tech workshop or dramatic sky background with armor energy effects, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_HERO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -236,7 +236,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/superhero_speed.webp",
     "prompt": "dynamic speed superhero cosplay portrait of a {{genderPerson}}, {{male:sleek aerodynamic speedster costume with lightning bolt motifs, motion blur energy trails|female:fitted speedster suit with electric accents, mid-run dynamic hero pose}}, electric energy trail and motion blur cityscape background, vivid electric yellow and red energy, superhero cosplay, dynamic pose, cinematic lighting, photorealistic",
     "negativePrompt": "NEG_COSPLAY_HERO",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Superhero Cosplay"
   },
   {
@@ -244,7 +244,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/dark_vempire.webp",
     "prompt": "seductive gothic vampire cosplay portrait of a {{genderPerson}}, {{male:aristocratic vampire lord in dark velvet coat, pale skin, crimson fangs, commanding dark presence|female:vampire duchess in dramatic gothic black gown, pale ethereal beauty, crimson lips, alluring dark expression}}, gothic castle crypt or haunted manor with candles and roses background, dark aesthetic, moody lighting, dramatic shadows, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Gothic Cosplay"
   },
   {
@@ -252,7 +252,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/dark_dark.webp",
     "prompt": "fallen dark angel cosplay portrait of a {{genderPerson}}, {{male:dark fallen angel with massive black feathered wings, dark armor, haunted powerful expression|female:dark angel with torn black wings, gothic ethereal gown, beautiful melancholic fallen expression}}, stormy apocalyptic sky with dark clouds and lightning background, dark aesthetic, moody lighting, dramatic shadows, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Gothic Cosplay"
   },
   {
@@ -260,7 +260,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/dark_gothik.webp",
     "prompt": "high gothic fashion cosplay portrait of a {{genderPerson}}, {{male:elegant Victorian gothic suit with lace cravat, dramatic dark accessories, sophisticated dark expression|female:elaborate gothic lolita or high gothic gown with corset, elaborate black accessories, darkly beautiful expression}}, moody gothic mansion interior or dark rose garden background, dark aesthetic, moody lighting, dramatic shadows, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Gothic Cosplay"
   },
   {
@@ -268,7 +268,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/dark_horror.webp",
     "prompt": "chilling horror character cosplay portrait of a {{genderPerson}}, {{male:terrifying original horror villain costume with dark makeup and menacing expression|female:beautiful yet terrifying horror character costume, hauntingly unsettling expression}}, dark atmospheric horror setting with fog and eerie light background, dark aesthetic, moody lighting, dramatic shadows, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Gothic Cosplay"
   },
   {
@@ -276,7 +276,7 @@
     "previewUrl": "https://raw.githubusercontent.com/kuhulabs/pixcraft_ai/refs/heads/main/ai_style_cosplay/dark_skwleton.webp",
     "prompt": "dramatic skeleton dark cosplay portrait of a {{genderPerson}}, {{male:dark lord skeleton armor with bones motif, undead king expression|female:elegant dark queen skeleton costume with ornate bone details, hauntingly beautiful undead expression}}, graveyard at night or dark underworld background, dark aesthetic, moody lighting, dramatic shadows, photorealistic",
     "negativePrompt": "NEG_COSPLAY_DARK",
-    "isPremium": true,
+    "isPremium": false,
     "category": "Dark Gothic Cosplay"
   }
 ]
